@@ -11,6 +11,5 @@ The purpose of this life changing app is to make people change their life for th
 <br>     0.2.5: text Color on index.html
 <br>     0.2.6: link that connects index.html and welcome.html
 <br>      0.2.7: make the link into a button
-<br>      0.2.8: center text on welcome.html
-<br>      0.2.9: index and welcome have matching fonts
+<br>      0.2.8: index and welcome have matching fonts
 <br>

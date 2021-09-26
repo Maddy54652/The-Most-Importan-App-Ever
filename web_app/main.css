@@ -1,0 +1,23 @@
+.button {
+
+  text-align: center;
+  position: absolute;
+  display: block;
+  background-color: #65ECB2;
+  color: #F2F2F2;
+  padding: 10px 30px;
+  width: 30px;
+  border-radius: 4px;
+  left: 50%;
+}
+
+
+    h3 {text-align: center;
+    color: #F2F2F2;}
+    p {text-align: center;
+    color: #F2F2F2;}
+    body {background-color: #2E39CD;}
+    a:link,a:visited{
+      color:#F2F2F2;
+      text-decoration: none;
+    }
